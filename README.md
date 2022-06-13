@@ -1,1 +1,1 @@
-# Small projects with python.
+# Small projects using python.
